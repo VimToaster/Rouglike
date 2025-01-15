@@ -34,12 +34,14 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"spr_Pizza","path":"sprites/spr_Pizza/spr_Pizza.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"spr_Tileset","path":"sprites/spr_Tileset/spr_Tileset.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
-    {"id":{"name":"move_Left","path":"scripts/move_Left/move_Left.yy",},},
-    {"id":{"name":"spr_Background","path":"sprites/spr_Background/spr_Background.yy",},},
-    {"id":{"name":"move_Up","path":"scripts/move_Up/move_Up.yy",},},
+    {"id":{"name":"MoveLeft","path":"scripts/MoveLeft/MoveLeft.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"MoveUp","path":"scripts/MoveUp/MoveUp.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

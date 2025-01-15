@@ -1,5 +1,6 @@
-input = undefined;
-alarm_interval = 30;
-grid_unit_width = 16;
+tile_size = 16;
+target_x =x;
+target_y = y;
+moving = false;
+speed = 2;
 
-alarm[0] = alarm_interval;

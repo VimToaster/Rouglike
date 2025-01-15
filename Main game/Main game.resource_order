@@ -17,8 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_Pizza","order":2,"path":"sprites/spr_Pizza/spr_Pizza.yy",},
+    {"name":"spr_Tileset","order":4,"path":"sprites/spr_Tileset/spr_Tileset.yy",},
     {"name":"Room1","order":2,"path":"rooms/Room1/Room1.yy",},
-    {"name":"spr_Background","order":1,"path":"sprites/spr_Background/spr_Background.yy",},
-    {"name":"move_Up","order":1,"path":"scripts/move_Up/move_Up.yy",},
+    {"name":"MoveLeft","order":1,"path":"scripts/MoveLeft/MoveLeft.yy",},
   ],
 }
