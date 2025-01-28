@@ -18,8 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Pizza","order":2,"path":"sprites/spr_Pizza/spr_Pizza.yy",},
+    {"name":"Hall","order":4,"path":"rooms/Hall/Hall.yy",},
     {"name":"spr_Tileset","order":4,"path":"sprites/spr_Tileset/spr_Tileset.yy",},
-    {"name":"Room1","order":2,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Start","order":2,"path":"rooms/Start/Start.yy",},
     {"name":"MoveLeft","order":1,"path":"scripts/MoveLeft/MoveLeft.yy",},
+    {"name":"CornerBottomToRight","order":6,"path":"rooms/CornerBottomToRight/CornerBottomToRight.yy",},
+    {"name":"CornerTopToRight","order":5,"path":"rooms/CornerTopToRight/CornerTopToRight.yy",},
   ],
 }
