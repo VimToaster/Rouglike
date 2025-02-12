@@ -9,4 +9,5 @@ Use version 2023.8.2.108 of game maker when launching and editing the game
 |09/01/25|Added more enemy sprites and changed player sprite||
 |15/01/25|Added a tileset for the levels not of my own creation||
 |29/01/25|Made more rooms using the tileset. No problems encountered.|It looks good 👍|
+|12/02/25|Fixed charachter movement so that the charachter moves on a grid|The colliders do not work to stop the player|
 
